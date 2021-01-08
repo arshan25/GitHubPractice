@@ -1,1 +1,4 @@
 Good new file is added
+
+so shit
+testing the diff command
