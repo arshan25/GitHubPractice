@@ -1,4 +1,5 @@
 Good new file is added
 
 so shit
+happens
 testing the diff command
